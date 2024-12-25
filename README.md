@@ -1,4 +1,4 @@
-# data-analysis
+# Strategic workforce analysis 
 • Developed a dynamic Power BI dashboard to analyse employee attrition rates across job categories like 
 healthcare and marketing. <br>
 • Utilized calculated measures and DAX expressions to uncover insights. <br>
