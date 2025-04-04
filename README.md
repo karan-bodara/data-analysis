@@ -73,7 +73,7 @@ Peak attrition happens around 1–2 years, then drops.
 
 ---
 # About me :
-I’m a passionate data enthusiast with a strong interest in turning raw data into actionable insights. I thrive on solving real-world problems through data storytelling and visualization.
+As a data enthusiast, I specialize in building efficient data systems, uncovering insights, and solving business problems through data-driven solutions. I’m committed to delivering high-quality, reliable results that add real value to your projects.
 
 Lets connect : [[LinkedIn](https://www.linkedin.com/in/karan-bodara-8684562b4/)]
 
