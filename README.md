@@ -6,7 +6,18 @@ healthcare and marketing. <br>
 for strategic decision-making.
 
 ---
-# 🎯 Summary Table of Visuals
+# 📂Dataset :
+The dataset consists companys information related to employees. Key columns in these dataset are : EmpID,
+Attrition,
+Department,
+DistanceFromHome,
+Education, 
+JobRole, JobSatisfaction, PerformanceRating,
+MonthlyIncome, PercentSalaryHike,
+YearsAtCompany etc
+
+---
+# 🎯 Summary Table of Visuals :
 
 
 | Visual Type         | Chart Name / Usage                                |
